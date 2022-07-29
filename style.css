@@ -1,0 +1,25 @@
+.navbar-brand img{
+    width: 75px;
+    
+}
+.anchor{
+    color: #fff;
+}
+/* @media screen and (max-width: 480px) {
+    img {
+      width: 50%;
+      height: 50%;
+    }
+    h4{
+        font-size:smaller;
+    }
+  }
+  @media screen and (max-width: 850px) {
+    img {
+      width: 70%;
+      height: 70%;
+    }
+    h4{
+        font-size:smaller;
+    }
+  } */
